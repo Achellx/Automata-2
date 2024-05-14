@@ -1,3 +1,3 @@
 # Automata-2
 
-Proyecto final de la materias de Lenguajes y Automatas ll
+Proyecto final de la materia de Lenguajes y Automatas ll
